@@ -1,0 +1,31 @@
+\\infofa.site.uottawa.ca\rkark038\Visual Studio 2010\Projects\GoogleEarthInterface\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+\\infofa.site.uottawa.ca\rkark038\Visual Studio 2010\Projects\GoogleEarthInterface\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\infofa.site.uottawa.ca\rkark038\Visual Studio 2010\Projects\GoogleEarthInterface\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+\\infofa.site.uottawa.ca\rkark038\Visual Studio 2010\Projects\GoogleEarthInterface\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+\\infofa.site.uottawa.ca\rkark038\Visual Studio 2010\Projects\GoogleEarthInterface\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+\\infofa.site.uottawa.ca\rkark038\Visual Studio 2010\Projects\GoogleEarthInterface\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+\\infofa.site.uottawa.ca\rkark038\Visual Studio 2010\Projects\GoogleEarthInterface\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.GEForm.resources
+\\infofa.site.uottawa.ca\rkark038\Visual Studio 2010\Projects\GoogleEarthInterface\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+\\infofa.site.uottawa.ca\rkark038\Visual Studio 2010\Projects\GoogleEarthInterface\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Master's in OttawaU\VIRTUAL PROJECT\GoogleEarthInterface\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Master's in OttawaU\VIRTUAL PROJECT\GoogleEarthInterface\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Master's in OttawaU\VIRTUAL PROJECT\GoogleEarthInterface\WindowsFormsApplication1\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Master's in OttawaU\VIRTUAL PROJECT\GoogleEarthInterface\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Master's in OttawaU\VIRTUAL PROJECT\GoogleEarthInterface\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.GEForm.resources
+C:\Master's in OttawaU\VIRTUAL PROJECT\GoogleEarthInterface\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Master's in OttawaU\VIRTUAL PROJECT\GoogleEarthInterface\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Master's in OttawaU\VIRTUAL PROJECT\GoogleEarthInterface\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Master's in OttawaU\VIRTUAL PROJECT\GoogleEarthInterface\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Master's in OttawaU\VIRTUAL PROJECT\GoogleEarthInterface\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Master's in OttawaU\VIRTUAL PROJECT\GoogleEarthInterface\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Master's in OttawaU\GoogleEarthInterface\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Master's in OttawaU\GoogleEarthInterface\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Master's in OttawaU\GoogleEarthInterface\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Master's in OttawaU\GoogleEarthInterface\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Master's in OttawaU\GoogleEarthInterface\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Master's in OttawaU\GoogleEarthInterface\WindowsFormsApplication1\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Master's in OttawaU\GoogleEarthInterface\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Master's in OttawaU\GoogleEarthInterface\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.GEForm.resources
+C:\Master's in OttawaU\GoogleEarthInterface\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Master's in OttawaU\GoogleEarthInterface\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Master's in OttawaU\GoogleEarthInterface\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
